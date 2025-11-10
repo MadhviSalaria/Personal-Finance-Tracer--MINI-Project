@@ -1,3 +1,8 @@
+
+
+<img width="997" height="836" alt="Screenshot 2025-11-08 131553" src="https://github.com/user-attachments/assets/c98454e4-942d-4a0a-8e3c-bb087caf2561" />
+<img width="1447" height="903" alt="Screenshot 2025-11-08 131651" src="https://github.com/user-attachments/assets/0bba0194-35e5-4ff9-a5a5-c93750c5eb1c" />
+<img width="1352" height="736" alt="Screenshot 2025-11-08 131717" src="https://github.com/user-attachments/assets/b23b21ac-9ebb-4809-8984-bd2ce46d39f3" />
 # 💰 Personal Finance Tracker  
 
 ## 🧾 Overview  
@@ -75,7 +80,4 @@ CREATE TABLE IF NOT EXISTS transactions (
 
 
 
-<img width="997" height="836" alt="Screenshot 2025-11-08 131553" src="https://github.com/user-attachments/assets/c98454e4-942d-4a0a-8e3c-bb087caf2561" />
-<img width="1447" height="903" alt="Screenshot 2025-11-08 131651" src="https://github.com/user-attachments/assets/0bba0194-35e5-4ff9-a5a5-c93750c5eb1c" />
-<img width="1352" height="736" alt="Screenshot 2025-11-08 131717" src="https://github.com/user-attachments/assets/b23b21ac-9ebb-4809-8984-bd2ce46d39f3" />
 
